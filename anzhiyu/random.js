@@ -1,3 +1,3 @@
-var posts=["2025/07/11/hello-world/","2025/07/12/迷你世界光影/","2025/07/12/测试/"];function toRandomPost(){
+var posts=["2025/07/13/我的世界-高仿眞迷你世界資源包1-16/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
